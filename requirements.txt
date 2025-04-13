@@ -1,0 +1,4 @@
+fastapi
+webvtt-py
+uvicorn
+locust
